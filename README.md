@@ -27,3 +27,6 @@ Binary is outdated so i wrote 6ina7y...
 
 **Summary**: After optimization, **6ina7y** adds only **~0.00015 µs per bit** on average.  
 For most real-world sequences, the performance overhead is **negligible**.
+
+
+<sub>[67 wikipedia article](https://en.wikipedia.org/wiki/6-7)</sub>
