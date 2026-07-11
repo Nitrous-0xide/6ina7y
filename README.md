@@ -1,4 +1,12 @@
+
+
 # 6ina7y
+---
+
+### Windows support is comming soon...
+
+---
+
 Binary is outdated so i wrote 6ina7y...
 
 6ina7y is a simple new base-2 number system. Binary is too complicated for the [new generation](https://en.wikipedia.org/wiki/Generation_Alpha) and i beleive everyone should get into compsci so i made 6ina7y to help them understand. 
